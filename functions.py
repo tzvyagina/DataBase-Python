@@ -114,6 +114,12 @@ def round_plot_initialization(x_center: float, y_center: float) -> tuple:
     ax.add_patch(circle3)
     ax.text(x_center + 0.6, y_center + 0.03, '20%', fontsize=13, alpha=0.3)
 
+    ax.text(x_center - 0.22, y_center - 0.03, 'March 1-31', fontsize=22, alpha=0.8)
+    ax.text(x_center - 1.1, y_center - 0.7, '2020', fontsize=22, alpha=0.8)
+    ax.text(x_center - 1.1, y_center + 0.7, '2023', fontsize=22, alpha=0.8)
+    ax.text(x_center + 0.9, y_center - 0.7, '2021', fontsize=22, alpha=0.8)
+    ax.text(x_center + 0.9, y_center + 0.7, '2022', fontsize=22, alpha=0.8)
+
     return fig, ax
 
 
