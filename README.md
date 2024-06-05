@@ -5,7 +5,7 @@ Database contains data about Ice Concentration Percentage (in colors) of Gulf of
 The Round Plot is divided into 4 sectors (corresponding to 4 year). Every sector has 31 multi-color lines (corresponding to 31 day). Every line is combined up to 4 colors (corresponding to Ice Concentration). 
 
 The animated result is on the 'Steps' folder, it  has a name "Animation.gif".
-The animated result with additional text and graphical data is on the parent folder, it has name "Extended_Visualization.mp4".
+The animated result with additional graphical data is on the parent folder, it has name "Extended_Visualization.mp4".
 
 
 
